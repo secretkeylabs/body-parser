@@ -1,7 +1,7 @@
 {
   "name": "body-parser-bigint-middleware",
   "description": "Node.js body parsing middleware with bigint support",
-  "version": "1.20.2",
+  "version": "1.20.3",
   "contributors": [
     "Douglas Christopher Wilson <doug@somethingdoug.com>",
     "Jonathan Ong <me@jongleberry.com> (http://jongleberry.com)"
